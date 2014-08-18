@@ -1,4 +1,4 @@
-C++ exercises for the software engineering class at [FUB](https://www.unibz.it) in summer 2012.
+C++ exercises for the software engineering class at [FUB](https://www.unibz.it) in summer 2013.
 
 
 Compiling and Executing
